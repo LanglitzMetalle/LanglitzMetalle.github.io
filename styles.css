@@ -10,8 +10,8 @@
 body { margin: 0; background: radial-gradient(circle at 80% 0%, #dbeaf2 0, transparent 34rem), #eef3f7; }
 a { color: #0d6d9c; }
 .shell { width: min(1120px, calc(100% - 32px)); margin: 0 auto; padding: 42px 0; }
-.topnav { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 56px; padding: 10px; border: 1px solid rgba(21, 56, 93, .1); border-radius: 18px; background: rgba(255, 255, 255, .9); box-shadow: 0 12px 34px rgba(21, 56, 93, .1); }
-.topnav a { padding: 10px 13px; border-radius: 10px; color: #15385d; font-size: .92rem; font-weight: 780; text-decoration: none; transition: background-color .16s ease, color .16s ease, transform .16s ease; }
+.topnav { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-bottom: 56px; padding: 10px; border: 1px solid rgba(21, 56, 93, .1); border-radius: 18px; background: rgba(255, 255, 255, .9); box-shadow: 0 12px 34px rgba(21, 56, 93, .1); }
+.topnav a { padding: 10px 9px; border-radius: 10px; color: #15385d; font-size: .88rem; font-weight: 780; text-decoration: none; white-space: nowrap; transition: background-color .16s ease, color .16s ease, transform .16s ease; }
 .topnav a:hover { background: #e8f0f6; color: #0f2e4d; transform: translateY(-1px); }
 .topnav a.active { background: #15385d; color: #fff; }
 .topnav a.nav-shop { border: 1px solid #b8c9d5; background: #f8fbfd; }
@@ -23,7 +23,7 @@ a { color: #0d6d9c; }
 .topnav a.topnav-brand:focus,
 .topnav a.topnav-brand:active {
   display: block;
-  width: clamp(174px, 20vw, 220px);
+  width: clamp(168px, 18vw, 200px);
   height: 50px;
   margin: 0 auto 0 2px;
   padding: 0;
