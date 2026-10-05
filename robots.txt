@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://langlitzmetalle.github.io/sitemap.xml
