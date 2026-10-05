@@ -76,6 +76,7 @@ h2 { margin: 6px 0 0; font-size: clamp(1.8rem, 4vw, 2.7rem); }
 .info-copy p { margin-top: 0; color: #52677a; line-height: 1.7; }
 footer { margin-top: 26px; color: #40566b; }
 footer a { font-weight: 700; text-underline-offset: 3px; }
+.legal-links { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
 .copyright-notice { margin-top: 20px; padding: 14px 16px; border-left: 4px solid #c74a21; border-radius: 0 9px 9px 0; background: rgba(255, 255, 255, .7); line-height: 1.5; }
 
 @media (max-width: 860px) {
