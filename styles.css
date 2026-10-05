@@ -17,7 +17,7 @@ a { color: #0d6d9c; }
 .topnav a.nav-shop { border: 1px solid #b8c9d5; background: #f8fbfd; }
 .topnav a.nav-shop:hover { border-color: #15385d; background: #edf4f8; }
 .topnav a.nav-calculator { background: #10a19a; color: #fff; }
-.topnav a.nav-calculator:hover { background: #a93d1b; color: #fff; }
+.topnav a.nav-calculator:hover, .topnav a.nav-calculator:focus-visible { background: #15385d; color: #fff; }
 .topnav a.topnav-brand,
 .topnav a.topnav-brand:hover,
 .topnav a.topnav-brand:focus,
@@ -59,7 +59,7 @@ h2 { margin: 6px 0 0; font-size: clamp(1.8rem, 4vw, 2.7rem); }
 .intro { max-width: 760px; margin: 24px 0 0; color: #40566b; font-size: 1.12rem; line-height: 1.65; }
 .hero-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin-top: 28px; }
 .button-link { display: inline-block; padding: 13px 17px; border-radius: 9px; background: #10a19a; color: #fff; font-weight: 800; text-decoration: none; }
-.button-link:hover { background: #a93d1b; }
+.button-link:hover, .button-link:focus-visible { background: #15385d; }
 .button-link.secondary { background: #15385d; }
 .button-link.secondary:hover { background: #0f2e4d; }
 .text-link { padding: 10px 4px; font-weight: 750; text-underline-offset: 4px; }
