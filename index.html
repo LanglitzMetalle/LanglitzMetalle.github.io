@@ -14,7 +14,8 @@
   <meta name="theme-color" content="#15385d">
   <link rel="canonical" href="https://langlitzmetalle.github.io/">
   <link rel="icon" type="image/png" href="favicon.png">
-  <link rel="stylesheet" href="styles.css?v=20261005-6">
+  <link rel="stylesheet" href="styles.css?v=20261005-7">
+  <script src="carousel.js?v=20261005-1" defer></script>
   <meta property="og:type" content="website">
   <meta property="og:locale" content="de_DE">
   <meta property="og:site_name" content="METALXACT">
@@ -187,6 +188,36 @@
       </div>
       <aside class="hero-panel" aria-label="Schnellzugriff">
         <span class="panel-label">Schnellzugriff</span>
+        <div class="product-carousel" data-carousel aria-label="METALXACT Produktbilder" aria-roledescription="Karussell">
+          <div class="carousel-viewport">
+            <a class="carousel-slide is-active" href="https://www.metalxact.com/metallprofile-nach-mass/aluminium/flachstangen/">
+              <img src="assets/products/aluminium-flachstange-eloxiert.jpg" width="800" height="800" alt="Eloxierte Aluminium-Flachstange" fetchpriority="high">
+              <span>Aluminium-Flachstangen</span>
+            </a>
+            <a class="carousel-slide" href="https://www.metalxact.com/metallprofile-nach-mass/aluminium/u-profile/" hidden>
+              <img src="assets/products/u-profile-pulverbeschichtet.jpg" width="800" height="800" alt="Pulverbeschichtete Aluminium-U-Profile" loading="lazy">
+              <span>U-Profile mit Pulverbeschichtung</span>
+            </a>
+            <a class="carousel-slide" href="https://www.metalxact.com/metallprofile-nach-mass/stahl/vierkantrohre/" hidden>
+              <img src="assets/products/stahl-vierkantrohr.jpg" width="800" height="800" alt="Schwarzes Stahl-Vierkantrohr" loading="lazy">
+              <span>Stahl-Vierkantrohre</span>
+            </a>
+            <a class="carousel-slide" href="https://www.metalxact.com/metallprofile-nach-mass/stahl/rundrohre/" hidden>
+              <img src="assets/products/stahl-rundrohr.jpg" width="800" height="800" alt="Schwarzes Stahl-Rundrohr" loading="lazy">
+              <span>Stahl-Rundrohre</span>
+            </a>
+            <a class="carousel-slide" href="https://www.metalxact.com/bleche-platten-nach-mass/" hidden>
+              <img src="assets/products/metallblech.jpg" width="800" height="800" alt="Metallblech mit glatter Oberfläche" loading="lazy">
+              <span>Bleche und Platten nach Maß</span>
+            </a>
+          </div>
+          <div class="carousel-controls" aria-label="Karussellsteuerung">
+            <button class="carousel-button carousel-prev" type="button" aria-label="Vorheriges Produktbild">←</button>
+            <span class="carousel-status" aria-hidden="true">1 / 5</span>
+            <button class="carousel-button carousel-toggle" type="button" aria-label="Automatischen Bildwechsel pausieren" aria-pressed="false">Pause</button>
+            <button class="carousel-button carousel-next" type="button" aria-label="Nächstes Produktbild">→</button>
+          </div>
+        </div>
         <strong>Profile · Rohre · Stangen · Bleche · Kantteile</strong>
         <p>Produktgruppen finden, theoretisches Gewicht berechnen und direkt zur passenden METALXACT Seite wechseln.</p>
       </aside>
