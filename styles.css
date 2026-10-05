@@ -14,6 +14,8 @@ a { color: #0d6d9c; }
 .topnav a { padding: 10px 13px; border-radius: 10px; color: #15385d; font-size: .92rem; font-weight: 780; text-decoration: none; transition: background-color .16s ease, color .16s ease, transform .16s ease; }
 .topnav a:hover { background: #e8f0f6; color: #0f2e4d; transform: translateY(-1px); }
 .topnav a.active { background: #15385d; color: #fff; }
+.topnav a.nav-shop { border: 1px solid #b8c9d5; background: #f8fbfd; }
+.topnav a.nav-shop:hover { border-color: #15385d; background: #edf4f8; }
 .topnav a.nav-calculator { background: #c74a21; color: #fff; }
 .topnav a.nav-calculator:hover { background: #a93d1b; color: #fff; }
 .topnav a.topnav-brand,
