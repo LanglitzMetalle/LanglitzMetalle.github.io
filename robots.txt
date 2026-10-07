@@ -1,4 +1,14 @@
 User-agent: *
 Allow: /
 
+# AI search and indexing crawlers
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
 Sitemap: https://langlitzmetalle.github.io/sitemap.xml
