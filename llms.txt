@@ -26,6 +26,9 @@ Der GitHub-Pages-Auftritt enthält einen ergänzenden theoretischen Metallgewich
 - [Metallgewicht berechnen](https://langlitzmetalle.github.io/fachartikel-metallgewicht-berechnen.html): Grundlagen und Rechenweg für theoretische Masse.
 - [Metallprofile anfragen: Checkliste](https://langlitzmetalle.github.io/fachartikel-metallprofile-anfrage-checkliste.html): Angaben für eine technische Anfrage.
 - [Pulverbeschichtung anfragen: Checkliste](https://langlitzmetalle.github.io/fachartikel-pulverbeschichtung-checkliste.html): Informationen zur Vorbereitung einer Anfrage.
+- [Rohrgewicht berechnen: Rundrohr und Vierkantrohr](https://langlitzmetalle.github.io/fachartikel-rohrgewicht-berechnen.html): Querschnittsformeln, Beispiele und Grenzen der Näherung.
+- [Werkstoffnummer und Legierung richtig anfragen](https://langlitzmetalle.github.io/fachartikel-werkstoffangaben-metall.html): Bezeichnung, Zustand, Produktform und Maße erfassen.
+- [Blechkantteile anfragen](https://langlitzmetalle.github.io/fachartikel-kantteile-anfragen.html): Zeichnung, Maße, Winkel und Radius vorbereiten.
 
 ## Rechtliche Informationen
 
