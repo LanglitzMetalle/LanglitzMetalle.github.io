@@ -2,7 +2,7 @@
 
 > METALXACT ist der Online-Shop und Informationsauftritt der LANGLITZ Metalle GmbH. Diese Datei verweist auf die wichtigsten Shopseiten, Werkzeuge und Fachinformationen.
 
-Der GitHub-Pages-Auftritt enthält einen ergänzenden theoretischen Metallgewicht-Rechner, Produktübersichten, einen Katalog ohne Preise und praktische Fachartikel. Die Seiten sind überwiegend deutschsprachig. Aktuelle Varianten, Maße, Preise und Verfügbarkeit sind auf den verlinkten Shopseiten zu prüfen. Rechnergebnisse sind theoretische Näherungen und ersetzen keine Wägung, Werkstoffprüfung oder technische Freigabe. Dichtewerte sind Richt- oder dokumentierte Referenzwerte; maßgeblich bleiben Werkstoff, Lieferzustand, Produktform, Abmessungen und Originalunterlagen.
+Der GitHub-Pages-Auftritt enthält einen ergänzenden theoretischen Metallgewicht-Rechner, Produktübersichten, einen Katalog ohne Preise und praktische Fachartikel. Die Seiten sind überwiegend deutschsprachig. Aktuelle Varianten, Maße, Preise und Verfügbarkeit sind auf den verlinkten Shopseiten zu prüfen. Rechenergebnisse sind theoretische Näherungen und ersetzen keine Wägung, Werkstoffprüfung oder technische Freigabe. Dichtewerte sind Richt- oder dokumentierte Referenzwerte; maßgeblich bleiben Werkstoff, Lieferzustand, Produktform, Abmessungen und Originalunterlagen.
 
 ## Website und Produktauswahl
 
@@ -35,3 +35,4 @@ Der GitHub-Pages-Auftritt enthält einen ergänzenden theoretischen Metallgewich
 ## Urheberrecht und Nutzung
 
 - [LICENSE des Rechners](https://github.com/LanglitzMetalle/metal-weight-calculator/blob/main/LICENSE): Nutzungsbedingungen für den veröffentlichten Quellcode und die zugehörigen Inhalte.
+
