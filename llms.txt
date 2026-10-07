@@ -1,0 +1,37 @@
+# METALXACT – LANGLITZ Metalle GmbH
+
+> METALXACT ist der Online-Shop und Informationsauftritt der LANGLITZ Metalle GmbH. Diese Datei verweist auf die wichtigsten Shopseiten, Werkzeuge und Fachinformationen.
+
+Der GitHub-Pages-Auftritt enthält einen ergänzenden theoretischen Metallgewicht-Rechner, Produktübersichten, einen Katalog ohne Preise und praktische Fachartikel. Die Seiten sind überwiegend deutschsprachig. Aktuelle Varianten, Maße, Preise und Verfügbarkeit sind auf den verlinkten Shopseiten zu prüfen. Rechnergebnisse sind theoretische Näherungen und ersetzen keine Wägung, Werkstoffprüfung oder technische Freigabe. Dichtewerte sind Richt- oder dokumentierte Referenzwerte; maßgeblich bleiben Werkstoff, Lieferzustand, Produktform, Abmessungen und Originalunterlagen.
+
+## Website und Produktauswahl
+
+- [METALXACT Startseite](https://langlitzmetalle.github.io/): Einstieg zu Produkten, Werkzeugen und Fachartikeln.
+- [Produktübersicht nach Werkstoff](https://langlitzmetalle.github.io/metal-weight-calculator/produkte.html): Übersicht der Produktgruppen und Werkstoffe.
+- [Produktkatalog ohne Preise](https://langlitzmetalle.github.io/metal-weight-calculator/produktkatalog.html): Produktgruppen nach Material und Form mit Links zum Shop.
+- [METALXACT Shop](https://www.metalxact.com/): Aktuelle Shopseiten und Konfiguration.
+- [Metallprofile nach Maß](https://www.metalxact.com/metallprofile-nach-mass/): Shopbereich für Metallprofile.
+- [Bleche und Platten nach Maß](https://www.metalxact.com/bleche-platten-nach-mass/): Shopbereich für Bleche und Platten.
+
+## Rechner und Werkstoffinformationen
+
+- [Metallgewicht-Rechner auf GitHub Pages](https://langlitzmetalle.github.io/metal-weight-calculator/): Theoretisches Stückgewicht, Gesamtgewicht und Gewicht pro Meter für unterstützte Halbzeugformen.
+- [Offizieller METALXACT Gewichtsrechner](https://www.metalxact.com/service/gewichtsrechner-metallprofile-bleche/): Rechner auf der offiziellen Shopdomain.
+- [METALXACT Werkstoffdatenblätter](https://www.metalxact.com/werkstoffdatenlaetter): Veröffentlichte Werkstoffinformationen und Quellen.
+- [Pulverbeschichtung – Übersicht](https://langlitzmetalle.github.io/metal-weight-calculator/pulverbeschichtung.html): Produktgruppen und weiterführende Shoplinks.
+- [Pulverbeschichtungen im Shop](https://www.metalxact.com/pulverbeschichtungen/): Shop- und Konfigurationsbereich.
+
+## Fachartikel
+
+- [Metallgewicht berechnen](https://langlitzmetalle.github.io/fachartikel-metallgewicht-berechnen.html): Grundlagen und Rechenweg für theoretische Masse.
+- [Metallprofile anfragen: Checkliste](https://langlitzmetalle.github.io/fachartikel-metallprofile-anfrage-checkliste.html): Angaben für eine technische Anfrage.
+- [Pulverbeschichtung anfragen: Checkliste](https://langlitzmetalle.github.io/fachartikel-pulverbeschichtung-checkliste.html): Informationen zur Vorbereitung einer Anfrage.
+
+## Rechtliche Informationen
+
+- [Impressum](https://www.metalxact.com/informationen/impressum/): Anbieterkennzeichnung auf der METALXACT Website.
+- [Datenschutz](https://www.metalxact.com/informationen/datenschutz/): Datenschutzhinweise auf der METALXACT Website.
+
+## Urheberrecht und Nutzung
+
+- [LICENSE des Rechners](https://github.com/LanglitzMetalle/metal-weight-calculator/blob/main/LICENSE): Nutzungsbedingungen für den veröffentlichten Quellcode und die zugehörigen Inhalte.

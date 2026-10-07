@@ -10,7 +10,7 @@ Dieses Projekt bündelt den Einstieg in das METALXACT Sortiment, den Metallgewic
 
 ## Online-Werkzeuge und Übersichten
 
-- [Metallgewicht-Rechner](https://www.metalxact.com/service/gewichtsrechner-metallprofile-bleche/)
+- [Metallgewicht-Rechner auf GitHub Pages](https://langlitzmetalle.github.io/metal-weight-calculator/)
 - [Produktübersicht nach Werkstoff](https://langlitzmetalle.github.io/metal-weight-calculator/produkte.html)
 - [Produktkatalog nach Material und Form](https://langlitzmetalle.github.io/metal-weight-calculator/produktkatalog.html)
 - [Überblick zur Pulverbeschichtung](https://langlitzmetalle.github.io/metal-weight-calculator/pulverbeschichtung.html)
@@ -26,3 +26,4 @@ Die Übersichten verlinken zu öffentlich sichtbaren Produktgruppen. Maßgeblich
 ## Urheberrecht
 
 © 2026 LANGLITZ Metalle GmbH. Alle Rechte vorbehalten. Quellcode, Gestaltung, Texte und Dokumentation dieses Projekts sind urheberrechtlich geschützt. Die Veröffentlichung des Rechners und der Übersichten überträgt keine Rechte zur Vervielfältigung, Änderung oder kommerziellen Nutzung.
+
